@@ -1,0 +1,10 @@
+E:\Катя\Ifhg\MyForm\MyForm\bin\Debug\MyForm.exe.config
+E:\Катя\Ifhg\MyForm\MyForm\bin\Debug\MyForm.exe
+E:\Катя\Ifhg\MyForm\MyForm\bin\Debug\MyForm.pdb
+E:\Катя\Ifhg\MyForm\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+E:\Катя\Ifhg\MyForm\MyForm\obj\Debug\MyForm.Form1.resources
+E:\Катя\Ifhg\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+E:\Катя\Ifhg\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+E:\Катя\Ifhg\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+E:\Катя\Ifhg\MyForm\MyForm\obj\Debug\MyForm.exe
+E:\Катя\Ifhg\MyForm\MyForm\obj\Debug\MyForm.pdb
